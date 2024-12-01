@@ -1,12 +1,10 @@
-# IDE Files
-#-------------------------
-/nbproject/
-.idea/*
+node_modules/
+coverage/
+lib-cov/
+.nyc_output/
+coverage.json
+npm-debug.log
 
-## Sublime Text cache files
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-*.sublime-workspace
-*.sublime-project
-
+# Webstorm IDE
+.idea
+.DS_Store
